@@ -25,7 +25,7 @@ Aspiring cybersecurity professional seeking to leverage my skills in threat dete
 
 
 ### Tools & Technologies
--  Wireshark, Metasploit, Splunk, etc.
+-  Wireshark, Metasploit, Chronicle, Defender XDR, etc.
   
 ### Certifications
 - [List any relevant certifications, e.g., CompTIA Security+, CEH, etc.]
